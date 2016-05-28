@@ -1,3 +1,3 @@
 # Introduction-to-Machine-Learning
-Udacity
+Building an algorithm to identify Enron Employees who may have committed fraud based on the public Enron financial and email dataset
 
